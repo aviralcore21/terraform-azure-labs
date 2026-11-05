@@ -344,9 +344,10 @@ The exercises culminate in production-inspired infrastructure deployments:
 
 If you are a DevOps enthusiast, Cloud Architect, recruiter, or fellow learner, feel free to connect:
 
-- **Author**: Your Name
-- **GitHub**: [@YourGitHubProfile](https://github.com/)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/)
+- **Author**: Aviral Gaurav
+- **GitHub**: [
+@aviralcore21](https://github.com/aviralcore21)
+- **LinkedIn**: [aviral-surya](https://linkedin.com/in/aviral-surya)
 - **Repository**: [terraform-azure-learning-journey](https://github.com/)
 
 ---
